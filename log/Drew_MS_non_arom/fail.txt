@@ -1,0 +1,788 @@
+26
+The reaction between [C:1]([C:2]([O:3][C:4]([C:5]([C:6]([H:16])([H:17])[H:18])([C:7]([H:19])([H:20])[H:21])[H:15])([H:13])[H:14])([H:11])[H:12])([H:8])([H:9])[H:10] and [C:1]([C:2]([O:3][C:4]([C:5]([C:6]([H:16])([H:17])[H:18])([C:7]([H:19])([H:20])[H:21])[H:15])([H:13])[H:14])([H:11])[H:12])([H:8])([H:9])[H:10] failed because of min() arg is an empty sequence 
+235
+The reaction between [C:1]([C:2]([C:3]([C:4]([C:5]([C:6](=[O:7])[O:8][C:9]([C:10]([H:28])([H:29])[H:30])([H:26])[H:27])([C:11](=[O:12])[O:13][C:14]([C:15]([H:33])([H:34])[H:35])([H:31])[H:32])[H:25])([H:23])[H:24])([H:21])[H:22])([H:19])[H:20])([H:16])([H:17])[H:18] and [C:1]([C:2]([C:3]([C:4]([C:5]([C:6](=[O:7])[O:8][C:9]([C:10]([H:28])([H:29])[H:30])([H:26])[H:27])([C:11](=[O:12])[O:13][C:14]([C:15]([H:33])([H:34])[H:35])([H:31])[H:32])[H:25])([H:23])[H:24])([H:21])[H:22])([H:19])[H:20])([H:16])([H:17])[H:18] failed because of min() arg is an empty sequence 
+236
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+237
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+238
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+239
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+240
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+241
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+242
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+243
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+244
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+245
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+246
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+247
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+248
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+249
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+250
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+251
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+252
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+253
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+254
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+255
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+256
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+257
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+258
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+259
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+260
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+262
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+264
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+267
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+270
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+271
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+272
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+273
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+274
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+275
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+276
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+277
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+278
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+279
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+280
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+281
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+282
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+283
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+284
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+285
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+286
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+287
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+288
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+289
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+290
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+298
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+299
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+300
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+301
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+302
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+303
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+304
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+305
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+306
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+307
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+308
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+309
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+310
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+311
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+312
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+313
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+314
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+315
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+316
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+317
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+318
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+319
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+320
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+321
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+322
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+323
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+324
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+325
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+326
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+327
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+328
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+329
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+330
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+331
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+332
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+333
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+334
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+335
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+336
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+337
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+338
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+339
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+340
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+341
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+342
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+343
+The reaction between failed because of Pre-condition Violation
+	attempt to add self-bond
+	Violation occurred on line 377 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: atomIdx1 != atomIdx2
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+344
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+345
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
+346
+The reaction between failed because of Pre-condition Violation
+	bond already exists
+	Violation occurred on line 378 in file Code/GraphMol/RWMol.cpp
+	Failed Expression: !(boost::edge(atomIdx1, atomIdx2, d_graph).second)
+	RDKIT: 2023.03.2
+	BOOST: 1_78
+ 
