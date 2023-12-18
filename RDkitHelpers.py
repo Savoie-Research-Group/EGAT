@@ -46,7 +46,7 @@ def AddHMapping(smi):
     mol = Chem.MolFromSmiles(smi)
     mol = Chem.AddHs(mol)
     for atom in mol.GetAtoms():
-        if atom.GetSymbol() in ['H','Cl','F']:
+        if atom.GetSymbol() in ['H','Cl','F','I','Br']:
             atom.SetAtomMapNum(atom.GetIdx() + 1)  # Increment the atom mapping label for H atoms
     return Chem.MolToSmiles(mol)
 

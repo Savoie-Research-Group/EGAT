@@ -39,7 +39,7 @@ import hydra
 def main(args):
     #omegaconf.OmegaConf.set_struct(args, False)
 
-    input = pd.read_csv(args.input,sep='|')
+    input = pd.read_csv(args.input)
     if not os.path.isdir(args.data_path): os.mkdir(args.data_path)
     if args.num_workers == 1:
         for Rind in tqdm(input.index.tolist(), total=len(input.index.tolist()), smoothing=0.9):

@@ -54,6 +54,7 @@ def main(argv):
         parser.add_argument('--hasaddons', action='store_true', help='Check if RDKit Features are needed.')
         parser.add_argument('--hasnormedaddons', action='store_true', help='Check if NormalizedRDKit Features are needed.')
         parser.add_argument('--drop_list', action='store_true', help='Check if NormalizedRDKit Features are needed.')
+        parser.add_argument('--split_type', type=str, default='random',help='Check if NormalizedRDKit Features are needed.')
         
         
         parser.add_argument('--model', type=str, help='Directory of the model being used')
