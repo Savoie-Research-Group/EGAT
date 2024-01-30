@@ -41,6 +41,12 @@ python Predict.py --config
 
 # Hardware Reqirements 
 
+- NVIDIA GPU
+- Python 3.8
+
+# How to Download EGAT to your Home Computer/Cluster
+
+
 
 
 
