@@ -1,0 +1,1 @@
+python Config.py -output Drew.yaml --input /depot/bsavoie/data/Mahit-TS-Energy-Project/EGAT/Data/SnAr/Data/SNAR_reaction_dataset_SI.csv --gpu 1 --data_path /depot/bsavoie/data/Mahit-TS-Energy-Project/GitHub/EGAT/log/SnAr --batch_size 10 --randomize --shuffle --smiles AAM --target Activation --model_type direct --test_split .8 
