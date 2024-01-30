@@ -29,7 +29,7 @@ To train the model, please use the command below:
 
 python Train.py --config 
 
-#### 4. Training:
+#### 4. Model Prediction:
 
 To predict the model using another model, please use the command below:
 
