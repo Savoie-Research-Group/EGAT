@@ -31,7 +31,7 @@ python Train.py --config
 
 #### 4. Training:
 
-To train the model, please use the command below:
+To predict the model using another model, please use the command below:
 
 python Predict.py --config 
 
