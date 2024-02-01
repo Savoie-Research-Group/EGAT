@@ -59,19 +59,8 @@ To obtain embeddings based on a model, please use:
 python Predict.py --config [config_file]
 ```
 
-#### 5. Obtaining Attention Maps for Chemical Interpretation:
 
-To obtain the fingerprints for a set of reactions, please set the **--AttentionMaps** flag when writing Config.py. To train and obtain Embeddings, please use the training command below:
 
-```
-python Train.py --config [config_file]
-```
-
-To obtain embeddings based on a model, please use: 
-
-```
-python Predict.py --config [config_file]
-```
 
 **Tutorial:** Slides and Video coming soon. 
 
