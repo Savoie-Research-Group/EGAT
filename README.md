@@ -15,36 +15,85 @@ EGAT is a repository that uses Edge-Featured Graph Attention Networks for reacti
 
 The first step in creating EGAT is to make a configuration file. You can do this in two ways: 1) by modifying the current config files available in the config file folder, or using a CLI based solution which can be done with Config.py. To see what kinds of arguements are there, please use the command below:
 
+```
 python Config.py --help
+```
 
 #### 2. Generating Graphs:
 
-To generate the graphs, please use the command below:
+To generate the molecular graphs necessary for model training, please use the command below:
 
-python Generate.py --config 
+```
+python Generate.py --config [config_file]
+```
+
+To generate molecular graphs instead of reaction based graphs for property prediction, you must set the --molecular flag when running python Config.py (or you can change it in the .yaml file itself)
 
 #### 3. Training:
 
 To train the model, please use the command below:
 
-python Train.py --config 
+```
+python Train.py --config [config_file]
+```
 
 #### 4. Model Prediction:
 
 To predict the model using another model, please use the command below:
 
-python Predict.py --config 
+```
+python Predict.py --config [config_file]
+```
 
-**Tutorial:** Sides. 
+#### 5. Obtaining Model Embeddings:
+
+To obtain the fingerprints for a set of reactions, please set the **--Embed** flag to either **1** or **2** when writing Config.py. Setting **--Embed** to **2** means that you will only get embeddings returned to you. To train and obtain Embeddings, please use the training command below:
+
+```
+python Train.py --config [config_file]
+```
+
+To obtain embeddings based on a model, please use: 
+
+```
+python Predict.py --config [config_file]
+```
+
+#### 5. Obtaining Attention Maps for Chemical Interpretation:
+
+To obtain the fingerprints for a set of reactions, please set the **--AttentionMaps** flag when writing Config.py. To train and obtain Embeddings, please use the training command below:
+
+```
+python Train.py --config [config_file]
+```
+
+To obtain embeddings based on a model, please use: 
+
+```
+python Predict.py --config [config_file]
+```
+
+**Tutorial:** Slides and Video coming soon. 
 
 **License:** 
+MIT License
 
 # Hardware Reqirements 
-
 - NVIDIA GPU
 - Python 3.8
 
 # How to Download EGAT to your Home Computer/Cluster
+
+Please set up the conda environment with the given packages in the environment.yml file. Then clone the repository to your home computer.
+
+
+## Authors/Contributors
+
+- Sai Mahit Vaddadi (svaddadi@purdue.edu)
+- Qiyuan Zhao (zhaoqy@umich.edu)
+- Brett Savoie (bsavoie@purdue.edu)
+
+
 
 
 
