@@ -1,6 +1,6 @@
 # EGAT: Edge-Featured Graph Attention Networks for Reaction and Molecular Property Prediction
 
-EGAT is a repository that uses Edge-Featured Graph Attention Networks for reaction and molecular property prediction. This is initially described in the paper published on ArXiv (https://chemrxiv.org/engage/chemrxiv/article-details/65410dc248dad23120c6e954) that is under review by the Journal of Physical Chemistry A. More details will come on that soon. Please cite these papers if EGAT is helpful to your research.
+EGAT is a repository that uses Edge-Featured Graph Attention Networks for reaction and molecular property prediction. This is initially described in the paper published on ChemRxiv (https://chemrxiv.org/engage/chemrxiv/article-details/65410dc248dad23120c6e954). More details will come on that soon. Please cite these papers if EGAT is helpful to your research.
 
 **Applications:**
  - Reaction Prediction: ChemArXiv [https://chemrxiv.org/engage/chemrxiv/article-details/65410dc248dad23120c6e954]
